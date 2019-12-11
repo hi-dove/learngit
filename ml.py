@@ -528,3 +528,7 @@ theta_final, costs = gradientDescent(X, y, theta_init, alpha, iters)
 
 print(theta_final)
 
+# 一定要随便写点什么东西
+# 我就是要看看git diff的作用
+# 就是为了学习git
+# ------------------------
